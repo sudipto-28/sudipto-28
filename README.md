@@ -36,8 +36,8 @@ I am a seasoned Engineering Leader with over **6 years of experience** bridging 
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=sudipto-28&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipto-28&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
