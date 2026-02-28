@@ -34,14 +34,6 @@ I am a seasoned Engineering Leader with over **6 years of experience** bridging 
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sudipto-28&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipto-28&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-
----
-
 ### 📫 Let's Connect
 - **LinkedIn:** [Sudipta Mondal](www.linkedin.com/in/sudipta-mondal-390ba8153)
 - **Portfolio:** [devsudipto.com](devsudipto.com)
