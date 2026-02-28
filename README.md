@@ -43,8 +43,8 @@ I am a seasoned Engineering Leader with over **6 years of experience** bridging 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
-- **Portfolio:** [egshop.io](https://egshop.io)
-- **Email:** your-email@example.com
+- **LinkedIn:** [Sudipta Mondal](www.linkedin.com/in/sudipta-mondal-390ba8153)
+- **Portfolio:** [devsudipto.com](devsudipto.com)
+- **Email:** contact@devsudipto.com
 
 *"I thrive on solving the 'impossible' problems—the ones that require a deep understanding of both the user's needs and the server's limits."*
